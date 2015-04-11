@@ -1,5 +1,5 @@
 # PyGoDaddy
-Update GoDaddy DNS information for account.
+Update GoDaddy DNS information for account. This replaces a service like dynDNS, etc. for dynamic DNS updating for GoDaddy accounts. 
 
 Install directions
 ============
